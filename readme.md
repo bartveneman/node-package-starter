@@ -1,4 +1,4 @@
-<div alisgn="center">
+<div align="center">
 	<h1>PACKAGE_NAME</h1>
 	<p>PACKAGE_INTRODUCTION</p>
 </div>
