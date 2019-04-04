@@ -13,6 +13,7 @@
   "scripts": {
     "test": "xo && ava test"
   },
+  "main": "./src/index.js",
   "files": [
     "src"
   ],
@@ -35,7 +36,7 @@
     "proseWrap": "always",
     "overrides": [
       {
-        "files": "*.json",
+        "files": ["*.json", "*.md"],
         "options": {
           "useTabs": false
         }
