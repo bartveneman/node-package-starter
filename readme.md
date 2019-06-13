@@ -26,8 +26,11 @@ npm install PACKAGE_NAME
 
 ## API
 
+### PACKAGE.getThing(args)
+Description
+
 ## Related projects
 
-- [RELATED_PACKAGE_1](RELATED_PACKAGE_1_URL)
-- [RELATED_PACKAGE_2](RELATED_PACKAGE_2_URL)
-- [RELATED_PACKAGE_3](RELATED_PACKAGE_3_URL)
+- **[RELATED_PACKAGE](RELATED_PACKAGE_URL)**<br>__related_package_description__
+- **[RELATED_PACKAGE](RELATED_PACKAGE_URL)**<br>__related_package_description__
+- **[RELATED_PACKAGE](RELATED_PACKAGE_URL)**<br>__related_package_description__
