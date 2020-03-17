@@ -1,3 +1,6 @@
 const test = require('ava')
+const myStarterModule = require('..')
 
-test.todo('WRITE TEST')
+test('MOCK', t => {
+	t.throws(() => myStarterModule())
+})
